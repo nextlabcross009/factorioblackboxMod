@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"factorio.versions": [
+			{
+				"name": "Steam",
+				"factorioPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\bin\\x64\\factorio.exe",
+				"active": true
+			}
+		],
+		"todo-tree.highlights.customHighlight": {
+			
+			"BUG": {
+				"icon": "bug"
+			},
+			"HACK": {
+				"icon": "tools"
+			},
+			"FIXME": {
+				"icon": "flame"
+			},
+			"XXX": {
+				"icon": "x"
+			},
+			"[ ]": {
+				"icon": "issue-draft"
+			},
+			"[x]": {
+				"icon": "issue-closed"
+			}
+		},
+		"Lua.workspace.library": [
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data\\core\\lualib",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data\\core",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data\\core\\prototypes",
+			"C:\\Users\\sebunDesktop\\AppData\\Roaming\\Factorio\\mods\\BlackBox_0.1.0",
+			"c:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data"
+		],
+		"Lua.workspace.userThirdParty": [
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data\\core\\lualib",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data\\core\\lualib\\noise",
+			"c:\\Users\\sebunDesktop\\AppData\\Roaming\\Cursor\\User\\workspaceStorage\\4424e33016c02727bccfe5629df81890\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+		],
+		"Lua.workspace.checkThirdParty": "ApplyInMemory",
+	}
+}

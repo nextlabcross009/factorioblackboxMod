@@ -1,0 +1,12 @@
+{
+    "name": "BlackBox",
+    "version": "0.1.0",
+    "title": "Your Black Box Mod",
+    "author": "Your Name",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "A mod that black-boxes production for performance."
+  }
+  
